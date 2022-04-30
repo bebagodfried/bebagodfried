@@ -1,4 +1,4 @@
-Béba Godfried A.
+<h1>Béba Godfried A.</h1>
 <a href='https://bebagodfried.com' target='_blank'>https://bebagodfried.com</a>
 <!--
 **bebagodfried/bebagodfried** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
